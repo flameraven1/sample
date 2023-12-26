@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header div nav
+{
+    width: 100vw;
+    height: 200px;
+
+    background-color: darkmagenta;
+    color: white;
+}
+
+header nav li
+{
+    font-size: 20px;
+    display: inline-block;
+    padding: 150px 0 0 10px;
+    padding-inline: 15px;
+}
+
+.Login
+{
+    position: relative;
+    left: 900px;
+}
+
+header li a
+{
+    text-decoration: none;
+    color: white;
+}
+
+header li a:hover
+{
+    color: orange;
+}
+
+div .main
+{
+    position: relative;
+    left: 970px;
+    bottom: 140px;
+}
+
+input
+{
+    width: 350px;
+    height: 40px;
+    border: 5px solid orange;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.icon
+{
+    color: orange;
+}
+
+.user_image
+{
+    position: relative;
+    left: 1254px;
+    bottom: 63px;
+    display: inline-block;
+}
+
+.main_content
+{
+    width: 100vw;
+    height: 100vh;
+}
+
+
+
+footer .foot
+{
+    width: 100vw;
+    height: 350px;
+    background-color: darkmagenta;
+    color: white;
+}
+
+footer .second_about
+{
+    position: relative;
+    left: 50px;
+    top: 10px;
+}
+
+.about_text
+{
+    font-size: 18px;
+}
+
+.facebook
+{
+    position: relative;
+    left: 801px;
+    bottom: 193px;
+}
+
+.instagram
+{
+    position: relative;
+    left: 801px;
+    bottom: 193px;
+}
+
+.twitter
+{
+    position: relative;
+    left: 801px;
+    bottom: 193px;
+}
+
+.tiktok
+{
+    position: relative;
+    left: 801px;
+    bottom: 193px;
+}
+
+.follow_us
+{
+    position: relative;
+    left: 800px;
+    bottom: 200px;
+}
